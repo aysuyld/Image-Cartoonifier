@@ -6,9 +6,9 @@ import sys
 import matplotlib.pyplot as plt #görüntülerin grafiğini oluşturmak için
 import os #yolu okumak ve görüntüleri o yola kaydetmek için
 from tkinter import messagebox
-from tkinter import filedialog
+#from tkinter import filedialog
 from tkinter import *
-from PIL import ImageTk, Image
+#from PIL import ImageTk, Image
 
 #-------Dosya kutusu oluşturma-------
 def upload():
